@@ -1,0 +1,23 @@
+h1 {
+    color: orange;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;}
+h2, p {
+    font-family: monospace;}
+#anuncio {
+    border: 3px solid tomato;
+    text-align: center;
+    border-radius: 8px;
+    background-color: cyan;}
+h3 {
+    color: blue;
+    font-style: italic;}
+.leemas {
+    background-color: blue;
+    color: white;}
+p a { 
+    background-color: yellow;}
+.importante {
+    background-color:orange;
+    color:red;}
